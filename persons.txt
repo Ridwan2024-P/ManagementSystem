@@ -1,0 +1,7 @@
+Name: 1
+Father's Name: 1
+Blood Group: O+
+Phone Number: 1
+Address: 1
+Gender: Male
+-------------------------------
